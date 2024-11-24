@@ -1,1 +1,1 @@
- Simple Musiical Sorting Visualizer
+ Simple Musical Sorting Visualizer
